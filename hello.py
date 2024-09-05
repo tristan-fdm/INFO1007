@@ -3,4 +3,4 @@ import math
 rayon = 4
 print(math.pi*rayon**2)
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
-print("Fabre de Munck Tristan")
+print("Fabre de Munck Trista")
